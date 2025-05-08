@@ -12,7 +12,6 @@ At Cology Biosciences, we are committed to delivering precision-driven preclinic
 - **Pharmacology**: Animal models for various conditions including inflammation, obesity, and more.
 - **Toxicology**: Comprehensive safety assessments and toxicity studies.
 - **Diagnostics**: Complete hematology, biochemistry, and histopathology services.
-- **Custom Study Design**: Tailored preclinical solutions for drug development.
 
 ## Technologies Used
 
